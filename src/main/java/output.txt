@@ -1,0 +1,44 @@
+Estado da Memória Física:
+Quadro 0: Processo 1, Página 0, Livre: false
+Quadro 1: Processo 1, Página 1, Livre: false
+Quadro 2: Processo 1, Página 2, Livre: false
+Quadro 3: Processo 1, Página 3, Livre: false
+Quadro 4: Processo -1, Página -1, Livre: true
+Quadro 5: Processo -1, Página -1, Livre: true
+Quadro 6: Processo -1, Página -1, Livre: true
+Quadro 7: Processo -1, Página -1, Livre: true
+Quadro 8: Processo -1, Página -1, Livre: true
+Quadro 9: Processo -1, Página -1, Livre: true
+Quadro 10: Processo -1, Página -1, Livre: true
+Quadro 11: Processo -1, Página -1, Livre: true
+Quadro 12: Processo -1, Página -1, Livre: true
+Quadro 13: Processo -1, Página -1, Livre: true
+Quadro 14: Processo -1, Página -1, Livre: true
+Quadro 15: Processo -1, Página -1, Livre: true
+Tabela de Páginas do Processo 1:
+Página 0 -> Quadro 0
+Página 1 -> Quadro 1
+Página 2 -> Quadro 2
+Página 3 -> Quadro 3
+Estado da Memória Física:
+Quadro 0: Processo 1, Página 0, Livre: false
+Quadro 1: Processo 1, Página 1, Livre: false
+Quadro 2: Processo 1, Página 2, Livre: false
+Quadro 3: Processo 1, Página 3, Livre: false
+Quadro 4: Processo 2, Página 0, Livre: false
+Quadro 5: Processo 2, Página 1, Livre: false
+Quadro 6: Processo 2, Página 2, Livre: false
+Quadro 7: Processo 2, Página 3, Livre: false
+Quadro 8: Processo -1, Página -1, Livre: true
+Quadro 9: Processo -1, Página -1, Livre: true
+Quadro 10: Processo -1, Página -1, Livre: true
+Quadro 11: Processo -1, Página -1, Livre: true
+Quadro 12: Processo -1, Página -1, Livre: true
+Quadro 13: Processo -1, Página -1, Livre: true
+Quadro 14: Processo -1, Página -1, Livre: true
+Quadro 15: Processo -1, Página -1, Livre: true
+Tabela de Páginas do Processo 2:
+Página 0 -> Quadro 4
+Página 1 -> Quadro 5
+Página 2 -> Quadro 6
+Página 3 -> Quadro 7
